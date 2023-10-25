@@ -1,0 +1,44 @@
+body {
+  padding: 20px;
+  background-color: #0fc;
+  color: blue;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  color: green;
+}
+
+img {
+  border-radius: 50%;
+  width: 150px;
+
+  /* Pour centrer un élément inline ou inline-block : je mets un text-align: center; sur le parent de l’élément */
+  /* Pour centrer un élément block : je lui mets un margin: auto; */
+
+  /* Pour centrer l’image qui est un inline-block : 1. je règle son display pour en faire un block, 2. je lui mets des marges automatiques de chaque côté */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  /* border-width: 10px; */
+  /* border-color: red; */
+  /* border-style: solid; */
+  border: 10px red solid;
+}
+h1 {
+  text-align: center;
+}
+/* h2,
+p {
+  width: 50%;
+  border: 20px dashed black;
+  padding: 20px;
+} */
+
+/* #ff000044 */
+/* #f004 */
+/* #ffffff */
+/* #000000 */
+/* #000 */
+/* #fff */
