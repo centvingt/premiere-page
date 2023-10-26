@@ -38,3 +38,17 @@ Pour faire un _commit_ et l’envoyer sur GitHub :
    ```bash
    $ git push origin main
    ```
+
+<hr>
+
+# Rendre votre devoir
+
+1. Suivez ce lien : <https://classroom.github.com/a/M-ls5TSc>,
+1. vous arrivez sur cette page et vous cliquez sur le bouton `Accept this assignment` :
+   ![Capture d’écran](231026_memo-git_001.png)
+1. puis cette page vous indique que votre dépôt GitHub est configuré :
+   ![Capture d’écran](231026_memo-git_002.png)
+1. vous rechargez la page et vous arrivez ici, cliquez sur le lien bleu :
+   ![Capture d’écran](231026_memo-git_003.png)
+1. en suivant le lien de bleu de l’étape précédente, vous arrivez sur cette page et vous tapez ces trois lignes proposées par GitHub mais en remplaçant les deux mots `origin` par `classroom` :
+   ![Capture d’écran](231026_memo-git_004.png)
